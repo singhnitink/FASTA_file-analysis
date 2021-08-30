@@ -1,1 +1,1 @@
-# FASTA_file-analysis
+python3 fasta_read.py
